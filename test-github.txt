@@ -1,7 +1,11 @@
 App Checklis
 
 Stanford
-Princeton
-Dartmouch
-Chicago
-Michigan
+- app
+
+Writing Supplement:
+
+- Princeton
+- Dartmouch
+- Chicago
+- Michigan
