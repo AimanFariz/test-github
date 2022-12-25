@@ -1,4 +1,4 @@
-
+App Checklist
 
 Stanford
 - app
@@ -6,6 +6,6 @@ Stanford
 Writing Supplement:
 
 - Princeton
-- Dartmouch
+- Dartmouth
 - Chicago
 - Michigan
